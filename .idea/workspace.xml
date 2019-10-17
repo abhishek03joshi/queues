@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccb800dc-ae71-4e6c-883d-1d6bb05bf388" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queues.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node/SingleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/CircularQueueUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/QueueUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/QueueUsingArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/QueueUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/QueueUsingLinkedListMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,7 +89,11 @@
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="QueueUsingLinkedListMain.java" pinned="false" current-in-tab="false">
@@ -137,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/queue/QueueUsingLinkedListMain.java" />
         <option value="$PROJECT_DIR$/src/queue/QueueUsingLinkedList.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -307,12 +299,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571276910239</updated>
       <workItem from="1571276911512" duration="7455000" />
-      <workItem from="1571321361352" duration="3813000" />
+      <workItem from="1571321361352" duration="3934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11268000" />
+    <option name="totallyTimeSpent" value="11389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -329,7 +321,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.54239404" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5723192" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5723192" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
@@ -455,7 +447,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
